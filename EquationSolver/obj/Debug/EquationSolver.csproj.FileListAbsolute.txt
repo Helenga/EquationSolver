@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\EquationSolver\EquationSolver\obj\Debug\EquationSolver.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\EquationSolver\EquationSolver\bin\Debug\EquationSolver.dll
+c:\users\user\documents\visual studio 2017\Projects\EquationSolver\EquationSolver\bin\Debug\EquationSolver.pdb
+c:\users\user\documents\visual studio 2017\Projects\EquationSolver\EquationSolver\obj\Debug\EquationSolver.dll
+c:\users\user\documents\visual studio 2017\Projects\EquationSolver\EquationSolver\obj\Debug\EquationSolver.pdb

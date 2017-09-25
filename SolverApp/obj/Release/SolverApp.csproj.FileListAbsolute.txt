@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\EquationSolver\SolverApp\bin\Release\SolverApp.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\EquationSolver\SolverApp\bin\Release\SolverApp.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\EquationSolver\SolverApp\bin\Release\SolverApp.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\EquationSolver\SolverApp\bin\Release\EquationSolver.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\EquationSolver\SolverApp\bin\Release\EquationSolver.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\EquationSolver\SolverApp\obj\Release\SolverApp.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\EquationSolver\SolverApp\obj\Release\SolverApp.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\EquationSolver\SolverApp\obj\Release\SolverApp.pdb
